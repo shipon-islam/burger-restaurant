@@ -16,7 +16,7 @@ export default function Navbar() {
         >
           <div>
             <Link className="uppercase text-2xl relative top-1 font-bold font-poppins text-gray-800" to="/">
-              <FaHamburger className="inline-block text-3xl mb-2 mr-1"/>burger lover
+              <FaHamburger className="inline-block text-3xl mb-2 mr-1"/>burger hunt
             </Link>
           </div>
           <div
