@@ -105,7 +105,7 @@ export const discover={
 //footer section
 export const footer={
 
-  headText:"burger lover",
+  headText:"burger hunt",
   para:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam consectetur egestas massa integer nulla tempus purus aenean libero. Dignissim sed fermentum leo mattis. Lacus aliquam arcu, a in quis. Vivamus felis, ultrices augue scelerisque condimentum eu fames.',
   email:"shiponkhan566@gmail.com",
   address:"main read,jamalpur"
