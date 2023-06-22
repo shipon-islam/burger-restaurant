@@ -9,7 +9,7 @@ export default function Navbar() {
   return (
     <>
       <div className=" w-full z-50 max-w-[1450px] mx-auto px-3 md:px-16 sticky top-0  bg-gradient-to-r from-yellow to-transparent py-3">
-        <div className="text-right capitalize mb-2 text-sm mr-3 font-montserrat text-gray-800 font-medium">express delivery-01641758653</div>
+        <div className="text-right capitalize mb-2 text-sm mr-3 font-montserrat text-gray-800 font-medium">express delivery-01632042970</div>
         <nav
           className="flex relative 
        justify-between items-center"
